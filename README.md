@@ -11,7 +11,10 @@ record level. Also, through the work it will be understood whether it can improv
 the performance of a Database Management System (DBMS) by the existence of indexes on the
 records.
 
-### Heap (functions)
+## Functions
+
+### Heap :
+*int HT_CreateFile(char *fileName, /* όνομα αρχείου */ int buckets /* αριθμός κάδων κατακερματισμού*/)
 
 
 ## Contributors of the project :
