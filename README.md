@@ -14,7 +14,7 @@ records.
 ## Functions
 
 ### Heap :
-*int HT_CreateFile(char *fileName, /* όνομα αρχείου */ int buckets /* αριθμός κάδων κατακερματισμού*/)
+* int HT_CreateFile(char *fileName, /* όνομα αρχείου */ int buckets /* αριθμός κάδων κατακερματισμού*/)
 
 
 ## Contributors of the project :
