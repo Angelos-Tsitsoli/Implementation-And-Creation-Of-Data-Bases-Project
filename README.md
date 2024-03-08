@@ -5,4 +5,4 @@ The implementation of the structures is explained on this pdf.<br>
 [ReadMe.pdf](https://github.com/sdi2000200/YSBD-Project/files/12103922/ReadMe.pdf)
 
 ## Contributors of the project :
-* @Angelos_Tsitsoli
+* @Vicky-Christofilopoulou
